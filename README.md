@@ -13,7 +13,7 @@ Here, you will find the following files:
 - transform.py: Implemented image filter functions
 - input folder: Here I have saved two image files ‘lake.png’ and ‘city.png’, these will be inputs/original images 
 - output folder: Once the images have been manipulated they will be saved in the output folder
-- project context word document: this give you a brief overview, walks you through the code and highlights limitations and improvements
+- project context word document: this gives you a brief overview, walks you through the code and highlights limitations and improvements
 
 
 
